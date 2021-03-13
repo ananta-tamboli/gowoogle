@@ -1,4 +1,4 @@
-# Mediumish Jekyll Theme - Change Log
+# Go Woogle Jekyll Theme - Change Log
 
 ## 2019-05-16, v1.0.36
 - docker-composer.yml
