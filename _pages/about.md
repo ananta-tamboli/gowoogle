@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About us
 permalink: /about
 comments: true
 ---
@@ -21,7 +21,7 @@ fill the form below to contribute I will definitely give the credits due and wil
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/ananta-tamboli/Go-Woogle">Github repository</a>!</p>
 
 </div>
 
