@@ -32,7 +32,7 @@ fill the form below to contribute I will definitely give the credits due and wil
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/Go Woogle-theme-jekyll">Go Woogle <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://gowoogle.com/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>

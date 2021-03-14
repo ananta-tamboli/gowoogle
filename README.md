@@ -1,17 +1,17 @@
 # Go Woogle - Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/Go Woogle-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/Go Woogle-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+[Live Demo](https://wowthemesnet.github.io/Go Woogle-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/Go Woogle-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://gowoogle.com/donate/)
 
 ![Go Woogle](assets/images/Go Woogle-jekyll-template.png)
 
 
 ### Copyright
 
-Copyright (C) 2019 Ananta, https://www.wowthemes.net
+Copyright (C) 2019 Ananta, https://gowoogle.com
 
-**Go Woogle for Jekyll** is designed and developed by [Ananta](https://www.wowthemes.net) and it is *free* under MIT license. 
+**Go Woogle for Jekyll** is designed and developed by [Ananta](https://gowoogle.com) and it is *free* under MIT license. 
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://gowoogle.com/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ### Contribute
 
