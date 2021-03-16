@@ -13,7 +13,7 @@ Fiber optics is a method of transmitting data in form of light signals (light pu
 
 Researchers at Bell Labs have reached internet speeds of over 100 petabit×kilometer per second using fiber-optic communication. You might be wondering how much is a petabit
 
-```
+```html
 1 petabit = 125000 gigabytes
 ```
 
