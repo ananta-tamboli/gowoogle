@@ -9,7 +9,8 @@ comments: true
 
 Fiber optics is a method of transmitting data in form of light signals (light pulses) through optical fiber cables. Fiber optics is major, modern & most efficient way to transmit data at high speed.
 
-**What is the maximum speed which can be achieved on optical fiber?**
+#### What is the maximum speed which can be achieved on optical fiber?
+
 Researchers at Bell Labs have reached internet speeds of over 100 petabit×kilometer per second using fiber-optic communication. You might be wondering how much is a petabit
 
 ```
@@ -20,7 +21,7 @@ Yes! That many GBs..
 
 Internet providers like Google use same tech to give high speed internet upto 1 Gbps.
 
-**Applications**
+#### Applications
 
 * Interconnects : Typical interconnect products are centered on a variety of industry standard cable assemblies that move, relay, or distribute data from point-to-point. Often this link, or connection, is very short for applications like switch-to-switch, switch-to-patch panel, and server-to-server. However, interconnects can also be rather long, linking two network or telecommunications closets on an inter-building campus.
 
