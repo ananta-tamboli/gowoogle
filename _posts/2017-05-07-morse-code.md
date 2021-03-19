@@ -1,9 +1,10 @@
 ---
+layout: post
+author: Ananta
 title: "Morse code"
 date: "2017-05-07"
-categories: 
-  - "tech-talk"
-coverImage: "phone-4598563_1920.png"
+categories: [Tech Talk]
+image: "/assets/images/phone-4598563_1920.png"
 ---
 
 > Morse code is a method of writing characters (alphabets, numericals, symbols) in form of dots & dashes or on & off signals. Most used way to transmit data in morse is through sounds by radio, etc. In survival conditions morse code can be a huge help that makes it important & it is really easy to learn in fact, i learned coding in morse in just a couple of hours!
