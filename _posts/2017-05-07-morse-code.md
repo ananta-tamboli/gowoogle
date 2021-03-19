@@ -39,12 +39,12 @@ Time Between Words – 7X
 
 ### Representation of characters
 
-![](images/Screenshot_2017-02-27-10-51-39-2-317x1024-3.png)
+![](/assets/images/Screenshot_2017-02-27-10-51-39-2-317x1024-3.png)
 
-![](images/Screenshot_2017-02-27-10-51-51-2-298x1024-3.png)
+![](/assets/images/Screenshot_2017-02-27-10-51-51-2-298x1024-3.png)
 
-![](images/Screenshot_2017-02-27-10-51-39-1-267x1024-6.png)
+![](/assets/images/Screenshot_2017-02-27-10-51-39-1-267x1024-6.png)
 
-![](images/Screenshot_2017-02-27-10-51-51-1-290x1024-3.png)
+![](/assets/images/Screenshot_2017-02-27-10-51-51-1-290x1024-3.png)
 
 **Stay tuned!**
