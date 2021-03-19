@@ -20,7 +20,7 @@ tags:
   - "studio"
   - "tad-co-in"
   - "top-android-apps"
-image: "/assets/images/user-interface-1655006_1280.png"
+image: "assets/images/user-interface-1655006_1280.png"
 ---
 
 > All the listed apps are handpicked by me & all apps are almost free
