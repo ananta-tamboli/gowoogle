@@ -3,7 +3,7 @@ name: "Go Woogle"
 title: "Go Woogle"
 description: "One Stop Tech Destination!"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: '/assets/images/favicon.ico'
 baseurl: /
 google_analytics: ' '
 disqus: 'gowoogle.disqus.com'
