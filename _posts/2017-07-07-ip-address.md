@@ -57,15 +57,15 @@ One reason IPv6 is replacing IPv4 is that it can provide a much larger number of
 Let’s compare how much difference does it make – the way IPv4 address are constructed there are 4 billion unique IP address (232) combinations possible & on other hand in IPv6 340 trillion trillion trillion (340,000,000,000,000,000,000,000,000,000,000,000,000) can be supported that means every person on face of earth can connect billions of devices to Internet.
 
 > IPv4 uses 32 bits to create a single unique address on network. An IPv4 address is expressed by four numbers separated by dots.
-> 
+>
 > example: 192.168.1.1
-> 
+>
 > IPv6 uses 128 bits to create a single unique address on the network. An IPv6 address is expressed by eight groups of hexadecimal numbers separated by colons
-> 
+>
 > example 2001:cdba:0000:0000:0000:0000:2137:9061
-> 
+>
 > Groups of numbers that contain all zeros are not written to save space, leaving a colon separator to mark the gap.
-> 
+>
 > Example 2001:cdba::2137:9061
 
 **Stay tuned!**
