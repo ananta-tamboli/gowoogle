@@ -2,7 +2,7 @@
 layout: page
 title: About us
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
