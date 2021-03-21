@@ -5,7 +5,7 @@ author: Ananta
 date: "2017-02-07"
 categories: [ Tech Talk, tutorial, web development ]
 image: "assets/images/fiber-optics.jpg"
-comments: true
+comments: false
 ---
 
 Fiber optics is a method of transmitting data in form of light signals (light pulses) through optical fiber cables. Fiber optics is major, modern & most efficient way to transmit data at high speed.

@@ -5,7 +5,7 @@ title: "Morse code"
 date: "2017-05-07"
 categories: [Tech Talk]
 image: "assets/images/phone-4598563_1920.png"
-comments: true
+comments: false
 featured: true
 ---
 

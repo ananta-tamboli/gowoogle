@@ -5,7 +5,7 @@ title: "IP address"
 date: "2017-07-07"
 categories: [Tech Talk]
 image: "assets/images/darknet-3588402_1920.jpg"
-comments: true
+comments: false
 ---
 
 > To know about what Internet Protocol  (IP) address is & what are it’s uses let’s take a simple example – everyone once in a life has posted letters or at least emailed someone, to email or post something to someone we need their email address or house address. When we look at Internet as mail service data packets are emails or posts & IP address is email address or house address associated with users computer so that requested data comes to him instead of going to somewhere else.
