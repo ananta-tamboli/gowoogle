@@ -18,6 +18,17 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+
+<!--one signal code below /OneSignalSDKUpdaterWorker.js and /OneSignalSDKWorker.js in root dir-->
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "85024c39-4c55-48a7-a25e-0da2821b17e3",
+    });
+  });
+</script>
 </head>
 
 {% if jekyll.environment == 'production' %}
