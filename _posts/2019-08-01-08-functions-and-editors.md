@@ -369,4 +369,4 @@ Explicitly
 
 ## Next Topic
 
-[09: Lists and Tuples](https://gowoogle.com)
+[09: Lists and Tuples](https://gowoogle.com/09-lists-and-tuples/)

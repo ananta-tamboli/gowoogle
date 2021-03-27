@@ -92,4 +92,4 @@ Run the file `~/pylrn/test.py` with `python`
 
 ## Next Topic
 
-[03: The Python Interpreter](https://gowoogle.com)
+[03: The Python Interpreter](https://gowoogle.com/03-The-python-interpreter/)

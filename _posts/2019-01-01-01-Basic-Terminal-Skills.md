@@ -168,4 +168,4 @@ ls ~/pylrn/*.py
 
 ## Next Topic
 
-[02: Installing Python for Mac OS X / Windows](https://gowoogle.com)
+[02: Installing Python for Mac OS X / Windows](https://gowoogle.com/02-Installing-Python-for-Mac-OS-X-Windows/)

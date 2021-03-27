@@ -847,4 +847,4 @@ you should get the following
 
 # Next Topic
 
-[10: Dictionaries and Sets](https://gowoogle.com)
+[10: Dictionaries and Sets](https://gowoogle.com/10-dictionaries-and-sets/)

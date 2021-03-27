@@ -1166,4 +1166,4 @@ It turns out that this is slightly off the mark with what I found on the interne
 
 <!-- Wait until next week for "11: Classes and Modules" -->
 
-[11: Classes and Modules](https://gowoogle.com)
+[11: Classes and Modules](https://gowoogle.com/11-classes-and-modules/)

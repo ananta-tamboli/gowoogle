@@ -134,4 +134,4 @@ This is one of the biggest weaknesses of `python` and why most core quant librar
 
 ## Next Topic
 
-[04: Installing Python Packages](https://gowoogle.com))
+[04: Installing Python Packages](https://gowoogle.com/04-Installing-Python-Packages/)
