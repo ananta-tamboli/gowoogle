@@ -4,7 +4,7 @@ title: "Go Woogle"
 description: "One Stop Tech Destination!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: /
+baseurl: https://gowoogle.com
 google_analytics: 'UA-188881083-1'
 disqus: 'gowoogle.disqus.com'
 mailchimp-list: ''
