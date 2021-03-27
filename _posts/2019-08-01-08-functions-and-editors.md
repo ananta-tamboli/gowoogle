@@ -9,18 +9,18 @@ author: Ananta
 image: assets/images/python-logo-master-v3-TM.png
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 - Declare a function with good style
 - Variable scope
 - Include examples and use as tests with `doctest`
 - Writing code in a text editor / IDE
 
-## Contents
+### Contents
 
 - This will become a table of contents (this text will be scraped).
 
-# Defining functions
+## Defining functions
 
 - The keyword `def` introduces a function *definition*
 - follow with a single space
@@ -76,7 +76,7 @@ raise_to_power = 2
 raise_to_power
 ```
 
-## Docstrings
+### Docstrings
 
 For smaller shorter functions it's acceptable to write a simple one line description.
 For longer less obvious functions you should write a more descriptive docstring
@@ -108,7 +108,7 @@ The following is a really good reference for the syntax but the above is a good 
 
 <https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>
 
-### Doctests
+#### Doctests
 
 The most important part of this docstring is the example. Note the syntax: It is a deliberate replication of what we would see in the python console.
 
@@ -138,7 +138,7 @@ In my personal opinion the first two are invaluable particularly in Investment B
 
 A full `doctest` reference can be found here: <https://docs.python.org/2/library/doctest.html>
 
-## Variable Scope
+### Variable Scope
 
 The execution of a function introduces a new symbol table used for the local variables of the function. This  can be seen in the following example
 
@@ -165,7 +165,7 @@ print(d)
 
 Under the local (function) scope, the global variable `d` is overwritten with a new local value. The following `print` statement shows that this override only persists in the local scope within the function declaration. Finally, we can use global variables from within the function (e.g. ``c``) providing they are in the global variable scope before the function is executed.
 
-### Scope Summary
+#### Scope Summary
 
 - Functions introduce a new local symbol table
 - Functions revert to look up varible names in the global table as second precedence
@@ -175,11 +175,11 @@ Under the local (function) scope, the global variable `d` is overwritten with a 
 
 Note the emphasis on variable. We shall see examples later where we can modify global states from within functions. There are specific ways to set global variables from functions but in general it's a terrible idea so we won't even cover it.
 
-# Using a Text Editor / IDE
+## Using a Text Editor / IDE
 
 Now we will write longer more complex code we shoudl use a text editor / integrated development environment (IDE). These both present a sane way of editing longer code.
 
-## Text Editor or IDE? What's the difference
+### Text Editor or IDE? What's the difference
 
 A text decent editor is simply a tool that will highlight the lines of code you write and possibly *lint* it for you. Linting is the act of checking for basic errors. Some may also offer autocompletion options. Often they will allow multiple plugins that are each individually aimed at increasing your productivity in different areas.
 
@@ -203,25 +203,25 @@ Ok now this is entirely my own opinion but I don't really like IDEs: Especially 
 
 I personally use `SublimeText3` and `ipython` to write code. I test out snippets in `ipython` and adjust them in `SublimeText` as required. I run sections of code in my text editor by copying to my clipboard and running `%paste` in `ipython`
 
-### Additional configuration
+#### Additional configuration
 
 More often than not, IDEs require a certain level of set up because of their additional functionality. Taking pyCharm as an example, if you set up your project settings incorrectly it can be extremely hard for a beginner to ascertain if your error is a `PyCharm` config error or an actual issue with your code. A more explicit example: If you configure you IDE to use a different `python` installation by mistake, none the libraries  you thought should be installed will be installed. This can really throw you off as a newbie.
 
-### Obsfucation
+#### Obsfucation
 
 IDEs intentionally obsfucate or abstract away some areas which we have already covered like Terminal skills and knowledge of `PATH` evnironment variables. This can often mean that new users think of `python` as being something that is tied to their IDE. For example, a new user can often think of programs in a Windows sense (e.g. Microsoft Office): Microsoft Word does not exist outside the program that opens that big white blank sheet on your machine. However `python` can run fine without your IDE.
 
 I personally thought for a month that `Fortran` code (my first language) could only be written in a special program. It took a while for me to realise that all the text editor does is produce a file with words in it.
 
-### Sensory Overload
+#### Sensory Overload
 
 You're already learning a new progeamming language. Learning a new editor just adds insult to injury when you have a bug in your code and also get confuse with your IDE.
 
 Text editors allow you to build your own custom IDE as your skill level increases, slowly adding highly customised optionality for your own style.
 
-# Exercises
+## Exercises
 
-## Exercise 8.1: Abstracting with functions
+### Exercise 8.1: Abstracting with functions
 
 This example will help you to identify possible variable values in small snippets of code to generalise them.
 
@@ -270,7 +270,7 @@ doctest.run_docstring_examples(the_function_you_want_to_test, globals(), True)
 
 `globals()` is a function that contains all the global variables currently defined (in your ipython session). It might be worth searching the internet for the difference between `globals()` and `locals()` to further get an idea of how functions are used in python!
 
-## Exercise 8.3: The `XOR` function
+### Exercise 8.3: The `XOR` function
 
 Given two variables `a` and `b` the `OR` function will return `True` for every instance except when
 
@@ -295,7 +295,7 @@ write a function for this in python taking in two varibles `a` and `b` as argume
 # Solve Me!
 ```
 
-## Exercise 8.4: Functions called from functions
+### Exercise 8.4: Functions called from functions
 
 Let us introduce a new method of doing loops for this example:
 
@@ -322,7 +322,7 @@ The following will help you check your code
 assert gbms(100, 4, 0.02, .1, 1/252) - 101.4864244028311 < 1e10
 ```
 
-## Exercise 8.5: Recursion
+### Exercise 8.5: Recursion
 
 This is not really an exercise but it is worth being aware of as recursion is a typical interview question.
 
@@ -367,6 +367,6 @@ Explicitly
 - $1! = 1$
 - $5! = 1\times2\times3\times4\times5 = 120$.
 
-# Next Topic
+## Next Topic
 
-[09: Lists and Tuples](https://flipdazed.github.io/blog/python%20tutorial/09-lists-and-tuples)
+[09: Lists and Tuples](https://gowoogle.com)

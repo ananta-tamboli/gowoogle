@@ -208,4 +208,4 @@ Find all files containing the string `'test'` and modify it to be `'test2'`. (Th
 
 <!-- Wait until next week for "08: Functions and Editors" -->
 
-[08: Functions and Editors](https://flipdazed.github.io/blog/python%20tutorial/08-functions-and-editors)
+[08: Functions and Editors](https://gowoogle.com)

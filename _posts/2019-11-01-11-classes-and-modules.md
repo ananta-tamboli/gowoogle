@@ -22,7 +22,7 @@ image: assets/images/python-logo-master-v3-TM.png
 
 - This will become a table of contents (this text will be scraped).
 
-## Classes
+### Classes
 
 Without necessarily knowing it you have been itnertacting with classes during this entire tutorial. That be said what is a class?
 
@@ -92,7 +92,7 @@ I can define a function outside of the class which doesn't overwrite the functio
 'woof'
 ```
 
-#### Why is it called `self`?
+### Why is it called `self`?
 
 Secondly, notice that all my *class methods* contain the variable name `self` as the first argument whereas my *function* did not have this requirement.
 
@@ -102,7 +102,7 @@ Secondly, notice that all my *class methods* contain the variable name `self` as
 
 The reason we use `self` is because it's refers to the class object *itself*
 
-#### What does `self` do?
+### What does `self` do?
 
 Lets create an instance of `Dog`
 
@@ -124,7 +124,7 @@ what happens internally is actually
 
 thus `self` becomes `rover`!
 
-### Interacting with class attributes
+#### Interacting with class attributes
 
 Anything that is assigned to `self` becomes an attribute that we can interact with. This is another very useful property of a class: For storing intermediate results.
 
@@ -169,14 +169,14 @@ class Demo:
 **Testing Tip** *As a side note I actually got the variable names on this really simple function
 wrong several times simply because I decided to rename them all! THe doctests saved me actually putting up incorrect code.*
 
-### When to use Classes
+#### When to use Classes
 
 This is all great but you don't work in a Game Studio. This is geared towards banking so why do we care about Dogs?! We don't, so lets start looking at trading strategies.
 
 > Just as a heasd up: This has no relation to how Nomura QIS calculate momentum.
 > This is just a simple demonstration to how we would want to utilise classes for signals
 
-#### Start with ideas as snippets then functions
+##### Start with ideas as snippets then functions
 
 The best way to start is normally with functions or single lines of code. As you become comfortable
 with components move then into functions.
@@ -226,7 +226,7 @@ This function is pretty generic bcause it will just give the signal on whatever 
 
 These two conditions generate the need for a class
 
-#### When to avoid classes
+##### When to avoid classes
 
 As a beginner classes will almost always make debugging more complicated if you dive into them head first.
 
@@ -237,7 +237,7 @@ Remember that abstraction is a tool: You should only use tools if they make your
 > you could have already been at the pub. Also in using this new tool, it's likely
 > that you may misconfigure it and have a lot of issues as a result! Pick the right tool for the right job!
 
-##### Example: A bad class
+###### Example: A bad class
 
 I regularly see code from beginners that will define a single `class` in a module that will never
 change in its parameterisation and will only ever be called once with functions that do indepedent tasks.
@@ -315,7 +315,7 @@ class TradeThingyForReportX:
 
 Given that this report will never be used outside of this junior's function: I would say that this is a **bad example of writing a class**.
 
-##### Example: Avoiding bad classes
+###### Example: Avoiding bad classes
 
 Instead I would write the above example as below which results in far less complexity and less code
 
@@ -363,18 +363,18 @@ def pv_for_report_x(my_trades, new_data):
     return core.PresentValue(my_trades)
 ```
 
-#### When to move into a class
+##### When to move into a class
 
 In my opinion there are two good reasonas to use classes in `python`
 
 1. You want to create many **parameterisations** of the **same underlying logic** (e.g. The `Dog` example)
 2. You have many **functions** that are constantly **passing around the same objects**
 
-#### A class for our backtesting
+##### A class for our backtesting
 
 Lets create an engine that can give us the signal at any given historic timepoint for our momentum strategy
 
-##### Use `pandas` for timeseries analysis
+###### Use `pandas` for timeseries analysis
 
 Doing timeseries analysis without using `pandas` is asking for trouble unless you're an advanced programmer.
 
@@ -382,7 +382,7 @@ This is because `pandas` contains an index which travels with the arrays that pr
 
 Therefore let us start the creation of our strategy using a pandas Series (a `pd.Series` is just a single column of a `pd.DataFrame`) check this by creating `df = pd.DataFrame({'a': [5, 6, 10]})` and selecting the column `'a'` like `df['a']`
 
-##### Writing the base logic
+###### Writing the base logic
 
 The following incorporates the basic framework in which we want to operate
 
@@ -444,7 +444,7 @@ class SimpleMom:
         return momentum_signal(prices_lookback)
 ```
 
-## Modular Python
+### Modular Python
 
 At this stage I would **strongly recommend** turning on `autoreload` in `ipython` which can be done like
 
@@ -456,7 +456,7 @@ In [1]: %autoreload 2
 
 This will allow your code to autoreload the changes as you edit them!
 
-### Example: Create a basic module
+#### Example: Create a basic module
 
 Create python files with the terminal in new directory called `nnet` the same directory like
 
@@ -518,7 +518,7 @@ def forward_prop(x, w, b):
 
 `__init__.py` should be a blank file with no contents.
 
-### Example: Importing a Module
+#### Example: Importing a Module
 
 Now `cd` in `ipython` or the terminal so that `nnet` is a subdirectory. You will now be able to import the `nnet` module and use `core.sigmoid` as shown in the documentation example!
 
@@ -536,7 +536,7 @@ you will also need to alter the `__init__.py` to the following
 from . import core
 ```
 
-### Example: Referencing other local modules
+#### Example: Referencing other local modules
 
 Create a new file `model.py` so that your directory looks like
 
@@ -586,7 +586,7 @@ You can check your present working directory by typing `pwd` into `ipython` and 
 
 *As an aside it should be slightly clearly why my bias for `ipython` is so strong*
 
-### Aside: How Python installs libraries
+#### Aside: How Python installs libraries
 
 You have effectively created a mini-library here on-the-fly. This is infact not too far off how libs are
 installed when you install a library in the terminal / powershell prompt like
@@ -606,9 +606,9 @@ As a hack you can see this working by doing
 
 Then even if you are not in the correct directory, you will still be able to import `nnet`. This can be quite useful during development. Just as a heads up - never put this in finished python modules as it is awefully hacky and a terrible idea in general!
 
-# Exercises
+## Exercises
 
-### Exercise 11.1: Understand your `self`
+#### Exercise 11.1: Understand your `self`
 
 Modify the `noise` so that the dog now speaks english. You should include these two `doctests` in the Examples
 and make sure you can pass them

@@ -422,4 +422,4 @@ To check your solution, you should get **exactly** the following:
 
 # Next Topic
 
-[06: Libraries](https://flipdazed.github.io/blog/python%20tutorial/06-Libraries)
+[06: Libraries](https://gowoogle.com)

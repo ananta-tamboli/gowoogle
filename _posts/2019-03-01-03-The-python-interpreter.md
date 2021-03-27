@@ -10,18 +10,18 @@ image: assets/images/python-logo-master-v3-TM.png
 ---
 
 
-## Learning Outcomes
+### Learning Outcomes
 
 - Able to launch / exit python in the terminal and run a simple command
 - Able to import libraries
 - Check python version
 - Understand weakness of jit compilation
 
-## Contents
+### Contents
 
 - This will become a table of contents (this text will be scraped).
 
-# Hello World
+## Hello World
 
 Open the `Terminal` and type
 
@@ -38,7 +38,7 @@ Try entering the following to print thing to the console window
 
 This gives the string representation of the string `'Hello World'` which is by definition `Hello World`
 
-# Statements
+## Statements
 
 A statement in `python` is something that is expressed in a single logical line such as
 
@@ -62,7 +62,7 @@ You may be familiar with some other statements like
 
 amongst others which can be found on the [docs page](https://docs.python.org/3/reference/simple_stmts.html#grammar-token-expression-stmt)
 
-# Using `python` libraries
+## Using `python` libraries
 
 To use python libraries we use the statement `import`
 
@@ -84,7 +84,7 @@ and for checking what version of `python` you have running. We should **all** be
 
 if you get `ModuleNotFoundError` this library is a non-standard `python` library and we can address that in another section.
 
-# Exiting `python`
+## Exiting `python`
 
 You can exit `python` by entering
 
@@ -94,9 +94,9 @@ You can exit `python` by entering
 
 If you are in the middle of executing code, you can force code to stop by entering `Control+C`. Sometimes you may have to hold `Control+C` or press it quite a few times to actually register particularly if you are doing something where the interpreter hasn't got time to register your command!
 
-# Exercises
+## Exercises
 
-## Exercise 3.1: The issue with just-in-time (jit) complilation
+### Exercise 3.1: The issue with just-in-time (jit) complilation
 
 This exercise is designed to demonstrate a common issue that can be caused by `python`'s JIT compilation (i.e. the fact that it runs one line at a time). In comparision `Fortran`, `java` & `c++` will check syntax across all the code (as well as numerous other checks) before you can run a single line.
 
@@ -132,6 +132,6 @@ This is one of the biggest weaknesses of `python` and why most core quant librar
 
 **NB** You're not expected to fix this code yet! Just move onto the next exercise :)
 
-# Next Topic
+## Next Topic
 
-[04: Installing Python Packages](https://flipdazed.github.io/blog/python%20tutorial/04-Installing-Python-Packages)
+[04: Installing Python Packages](https://gowoogle.com))

@@ -219,7 +219,7 @@ Lets imagine that the credit trading PnL system for some reason prepends `'0s'` 
 
 To link your PnL you will have to also prepend zeros to every `trade_id`
 
-*Whilst cussing out Diana Bloggs who retired last year after a distinguished trading career; but yet who also royally screwed you with one decision she made as a grad on a drizzly friday morning in 1999*
+_Whilst cussing out Diana Bloggs who retired last year after a distinguished trading career; but yet who also royally screwed you with one decision she made as a grad on a drizzly friday morning in 1999_
 
 We can zero pad integers to a length of 7 like
 
@@ -288,9 +288,9 @@ In [101]: %%timeit
 
 Here the lookup method is exceedingly fast and creating it only requires us to use the far slower line `str(trade_id).zfill(8)` 15 times instead of 15 million times!
 
-# Exercises
+### Exercises
 
-## Exercise 10.1: Dimensionality reduction
+### Exercise 10.1: Dimensionality reduction
 
 This example aims to build on previous examples to reinforce the idea of hash maps for reducing complexity.
 
@@ -1166,4 +1166,4 @@ It turns out that this is slightly off the mark with what I found on the interne
 
 <!-- Wait until next week for "11: Classes and Modules" -->
 
-[11: Classes and Modules](https://flipdazed.github.io/blog/python%20tutorial/11-classes-and-modules)
+[11: Classes and Modules](https://gowoogle.com)

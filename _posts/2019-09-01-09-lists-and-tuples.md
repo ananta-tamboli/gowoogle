@@ -847,4 +847,4 @@ you should get the following
 
 # Next Topic
 
-[10: Dictionaries and Sets](https://flipdazed.github.io/blog/python%20tutorial/10-dictionaries-and-sets)
+[10: Dictionaries and Sets](https://gowoogle.com)
