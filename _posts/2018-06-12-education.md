@@ -13,7 +13,6 @@ If you've gotten pretty comfortable with writing in Markdown, then you may enjoy
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
-
 ## Special formatting
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
@@ -21,7 +20,6 @@ As well as bold and italics, you can also use some other special formatting in M
 + ~~strike through~~
 + ==highlight==
 + \*escaped characters\*
-
 
 ## Writing code blocks
 
@@ -34,7 +32,6 @@ There are two types of code elements which can be inserted in Markdown, the firs
 ```
 
 If you want to get really fancy, you can even add syntax highlighting using Rouge.
-
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
