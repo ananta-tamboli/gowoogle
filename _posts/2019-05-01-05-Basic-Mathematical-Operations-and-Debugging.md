@@ -6,7 +6,7 @@ date: 2019-05-01 22:32 +0000
 tags: Python Tutorial Learning
 category: Python Tutorial
 author: Ananta
-
+image: assets/images/python-logo-master-v3-TM.png
 
 ---
 
