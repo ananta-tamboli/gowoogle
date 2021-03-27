@@ -13,11 +13,11 @@ comments: false
 Feel free to contact me if I misguided you or you have something to add that can improve my and everyone’s knowledge I am a student as well, I’ll be more than happy to learn more about it!
 
 fill the form below to contribute I will definitely give the credits due and will respect your anonymity if you choose so.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Go Woogle-jekyll-template.png" alt="jekyll template Go Woogle" /></p>
+<!--
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Go Woogle-jekyll-template.png" alt="jekyll template Go Woogle" /></p> -->
 <h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/">here</a>.</p>
+<p>Please, read the docs <a href="https://gowoogle.com/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
@@ -30,9 +30,9 @@ fill the form below to contribute I will definitely give the credits due and wil
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/Go Woogle-theme-jekyll">Go Woogle <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://gowoogle.com">Go Woogle <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://gowoogle.com/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-Go Woogle-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://gowoogle.com/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://gowoogle.com" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
