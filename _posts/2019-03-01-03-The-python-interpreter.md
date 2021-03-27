@@ -4,7 +4,7 @@ title: "03: The Python Interpreter"
 menutitle: "03: The Python Interpreter"
 date: 2019-03-01 22:32 +0000
 tags: Python Tutorial Learning
-category: [Python Tutorial, Tutorial]
+category: [Python Tutorial, tutorial]
 author: Ananta
 image: assets/images/python-logo-master-v3-TM.png
 ---

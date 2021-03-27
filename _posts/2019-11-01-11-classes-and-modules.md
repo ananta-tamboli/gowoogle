@@ -4,7 +4,7 @@ title: "11: Classes and Modules"
 menutitle: "11: Classes and Modules"
 date: 2019-11-01 00:35:00 +0000
 tags: Python Tutorial Learning
-category: [Python Tutorial, Tutorial]
+category: [Python Tutorial, tutorial]
 author: Ananta
 image: assets/images/python-logo-master-v3-TM.png
 ---

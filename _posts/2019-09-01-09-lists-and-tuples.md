@@ -4,7 +4,7 @@ title: "09: Lists and Tuples"
 menutitle: "09: Lists and Tuples"
 date: 2019-09-01 01:35:00 +0000
 tags: Python Tutorial Learning
-category: [Python Tutorial, Tutorial]
+category: [Python Tutorial, tutorial]
 author: Ananta
 image: assets/images/python-logo-master-v3-TM.png
 ---
