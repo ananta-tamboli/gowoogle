@@ -21,7 +21,7 @@ fill the form below to contribute I will definitely give the credits due and wil
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/ananta-tamboli/Go-Woogle">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/ananta-tamboli/Go-Woogle">Github repository<i class="fab fa-github"></i></a></p>
 
 </div>
 
