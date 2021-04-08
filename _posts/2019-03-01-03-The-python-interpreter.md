@@ -33,6 +33,9 @@ Try entering the following to print thing to the console window
 
 ```python
 >>> 'Hello World'
+```
+
+```output
 'Hello World'
 ```
 

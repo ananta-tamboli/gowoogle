@@ -9,7 +9,6 @@ There are lots of powerful things you can do with the Markdown editor. If you've
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
 
-
 ## Special formatting
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
@@ -18,18 +17,17 @@ As well as bold and italics, you can also use some other special formatting in M
 + ==highlight==
 + \*escaped characters\*
 
-
 ## Writing code blocks
 
 There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
 
-```
+```css
 .my-link {
     text-decoration: underline;
 }
 ```
 
-#### HTML
+### HTML
 
 ```html
 <li class="ml-1 mr-1">
@@ -39,7 +37,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
 </li>
 ```
 
-#### CSS
+### CSS
 
 ```css
 .highlight .c {
@@ -85,9 +83,6 @@ puts markdown.to_html
 ```c
 printf("Hello World");
 ```
-
-
-
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)
 

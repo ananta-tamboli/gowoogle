@@ -26,7 +26,7 @@ comments: false
 
 > All the listed apps are handpicked by me & all apps are almost free
 
-- **Greenify** 
+- **Greenify**
 
 Greenify is an app designed to control other Android apps and settings to optimize background processing and memory use, the effects of which can lead to longer battery life.
 
