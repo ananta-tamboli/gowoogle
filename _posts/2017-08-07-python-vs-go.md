@@ -6,6 +6,7 @@ date: "2017-08-07"
 categories: [Tech Talk]
 image: "assets/images/python-vs-go.jpg"
 comments: false
+featured: true
 ---
 
 

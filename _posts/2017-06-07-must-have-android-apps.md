@@ -22,6 +22,7 @@ tags:
   - "top-android-apps"
 image: "assets/images/user-interface-1655006_1280.png"
 comments: false
+featured: true
 ---
 
 > All the listed apps are handpicked by me & all apps are almost free
