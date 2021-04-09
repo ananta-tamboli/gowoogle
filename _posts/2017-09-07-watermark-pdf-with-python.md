@@ -52,4 +52,4 @@ Let's jump to the code.
 
 Though this method works you must not forget this is a mini project and there are a lot of ways to watermark a pdf and most of them are way more advance than this and they might even work better but this is a great exercise to polish your python skills and know more about it.
 
-for more mini projects head over to [Mini Projects](https://gowoogle.com/categories#)
+for more mini projects head over to [Mini Projects](https://gowoogle.com/categories#mini-project)
