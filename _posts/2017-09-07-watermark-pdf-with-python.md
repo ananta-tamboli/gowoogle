@@ -2,7 +2,7 @@
 layout: post
 title:  "Add watermark to your PDF file with Python "
 author: Ananta
-date: "2017-02-07"
+date: "2017-09-07"
 categories: [ mini project, tutorial, Python Tutorial ]
 image: "assets/images/coding.jpg"
 comments: false
