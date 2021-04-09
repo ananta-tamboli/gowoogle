@@ -623,10 +623,7 @@ Plot your stock path using `matplotlib` - you will certainly want to google this
 ```
 
 you should get the following
-<figure>
-  <img src="{{ site.baseurl }}/media{{page.redirect_from}}sln_img_0.png" />
-  <figcaption>Stonks!</figcaption>
-</figure>
+![Alt](/assets/images/sln_img_0.png "Stonks!")
 
 #### Exercise 9.2.3: Monte Carlo
 
@@ -719,10 +716,7 @@ Now plot with the default `pandas` plot function. Make sure to pass the argument
 ```
 
 you should get the following
-<figure>
-  <img src="{{ site.baseurl }}/media{{page.redirect_from}}sln_img_1.png" />
-  <figcaption>Lots of stonks!</figcaption>
-</figure>
+![Alt](/assets/images/sln_img_1.png "Lots of stonks!")
 
 ### Exercise 9.2.5: Prove empirically GBM returns are Normally distributed
 
@@ -822,11 +816,7 @@ ax.legend()
 ```
 
 you should get the following
-
-<figure>
-  <img src="{{ site.baseurl }}/media{{page.redirect_from}}sln_img_2.png" />
-  <figcaption>Standard!</figcaption>
-</figure>
+![Alt](/assets/images/sln_img_2.png "Standard!")
 
 ### [Optional: This requires undergrad maths!] Exercise 9.2.5.4: Show this holds for 20-day returns
 
@@ -840,10 +830,7 @@ Note that this exercise is really aimed at structurers, derivatives traders and 
 
 you should get the following
 
-<figure>
-  <img src="{{ site.baseurl }}/media{{page.redirect_from}}sln_img_3.png" />
-  <figcaption>Someone sat on this one</figcaption>
-</figure>
+![Alt](/assets/images/sln_img_3.png "Someone sat on this one")
 
 ## Next Topic
 
