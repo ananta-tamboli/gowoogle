@@ -59,7 +59,12 @@ There are some reasons people start programming with Python. The first is that i
 Just pip install some libraries and you can start typing out code to do things right away.
 
 You don't need to compile anything, there's no requirements.txt file to maintain, no breaking changes happening because of library updates, none of that stuff. You just run the interpreter and start typing away.
-Why do people use Go?
+
+For linux users it may not come as a surprise but most of the major distros have python interpreter inbuilt.
+
+Head over to [python tutorials on my website](https://gowoogle.com/categories#Python-Tutorial) if you want to learn python.
+
+* Why do people use Go?
 
 Go is a powerful language that can be used to build an amazing, scalable application.
 
@@ -74,4 +79,6 @@ Lets look at the top reasons why you’ll want to start building your next app i
 
 Bonus Reason: You Can Use Go On The Web!
 
-So, If you are looking for a new language as a developer or product manager you will want to consider giving Go a chance.
+So, If you are looking for a new language as a developer or product manager you will want to consider giving Go a chance but if want to play safe, well python is python!
+
+You can learn python here.
