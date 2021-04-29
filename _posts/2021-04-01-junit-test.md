@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First JUnit Test"
+title: "4. First JUnit Test"
 date: 2021-04-01 22:32 +0000
 tags: selenium junit testing
 category: [Selenium & Junit, tutorial]

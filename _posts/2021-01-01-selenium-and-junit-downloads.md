@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selenium and JUnit Downloads"
+title: "1. Selenium and JUnit Downloads"
 date: 2021-01-01 22:32 +0000
 tags: selenium junit testing
 category: [Selenium & Junit, tutorial]
