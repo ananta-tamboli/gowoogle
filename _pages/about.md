@@ -17,7 +17,7 @@ fill the form below to contribute I will definitely give the credits due and wil
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Go Woogle-jekyll-template.png" alt="jekyll template Go Woogle" /></p> -->
 <h4>YouTube Channel</h4>
 
-<p>Go Woogle <a href="https://gowoogle.com/">channel link</a>.</p>
+<p>Go Woogle <a href="https://www.youtube.com/channel/UC-DZPwBRyAiR2MoOYN3M4xA">channel link</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
