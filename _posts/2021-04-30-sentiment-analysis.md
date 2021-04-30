@@ -32,7 +32,6 @@ from textblob import TextBlob
 
 Here, we pass tokens and keys that we got from twitter developer console. This step is Non-GUI equivalent of Log in and instead of ID and Password we pass access tokens and keys.
 
-
 [Click her for OAuth token generation process](https://developer.twitter.com/en/docs/authentication/oauth-1-0a)
 
 ```python
