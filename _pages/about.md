@@ -15,9 +15,9 @@ Feel free to <a href="mailto:me@gowoogle.com">contact me</a> if I misguided you 
 fill the form below to contribute I will definitely give the credits due and will respect your anonymity if you choose so.</p>
 <!--
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/Go Woogle-jekyll-template.png" alt="jekyll template Go Woogle" /></p> -->
-<h4>Documentation</h4>
+<h4>YouTube Channel</h4>
 
-<p>Please, read the docs <a href="https://gowoogle.com/">here</a>.</p>
+<p>Go Woogle <a href="https://gowoogle.com/">channel link</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
@@ -30,9 +30,9 @@ fill the form below to contribute I will definitely give the credits due and wil
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="blank" href="https://gowoogle.com">Go Woogle <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="blank" href="https://gowoogle.com">Go Woogle</a>.</p>
 
-<a target="_blank" href="https://gowoogle.com/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://gowoogle.com" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://gowoogle.com/donate" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://gowoogle.com" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
