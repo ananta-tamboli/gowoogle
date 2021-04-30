@@ -3,7 +3,7 @@ layout: post
 title:  "Twitter Sentiment Analysis"
 author: Ananta
 date: "2021-04-07"
-categories: [ python tutorial, mini project, tutorial]
+categories: [ Python Tutorial, mini project, tutorial]
 image: "assets/images/mini projects.png"
 comments: false
 ---
