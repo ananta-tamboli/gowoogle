@@ -7,7 +7,7 @@ categories: [ python, mini project, tutorial]
 image: "assets/images/mini projects.png"
 comments: false
 ---
-## YouTube link
+<iframe width="857" height="482" src="https://www.youtube.com/embed/_ThJPZ4mOCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sentiment analysis refers to analyzing an opinion or feelings about something using data like text or images, regarding almost anything. Sentiment analysis helps companies in their decision-making process. For instance, if public sentiment towards a product is not so good, a company may try to modify the product or stop the production altogether in order to avoid any losses.
 
