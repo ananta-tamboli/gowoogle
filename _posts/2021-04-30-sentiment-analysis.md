@@ -182,4 +182,18 @@ if __name__ == "__main__":
 
 ![Alt](/assets/images/twitterop.png "Output")
 
+### Room for improvement
+
+1. First and obvious way to improve accuracy is by downloading corpora from textblob though corpora lite works well I would still recommend downnloading full version.
+here's how you can do it:
+
+type the command below in the terminal and hit enter if you are using windows command prompt is your terminal.
+
+```bash
+python -m textblob.download_corpora
+```
+
+2. using `vader` instead of textblob.
+vader classifies sentiment in 4 categories instead of 3 and is slighty better at sentiment analysis.
+
 [Github Repo](https://github.com/ananta-tamboli/Go-Woogle/tree/main/twitter%20sentiment%20analysis)
