@@ -3,7 +3,7 @@ layout: post
 author: Ananta
 title: "Python vs Go"
 date: "2017-08-07"
-categories: [Tech Talk]
+categories: [tech talk]
 image: "assets/images/python-vs-go.jpg"
 comments: false
 featured: true

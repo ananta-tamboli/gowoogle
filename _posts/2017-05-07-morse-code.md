@@ -3,7 +3,7 @@ layout: post
 author: Ananta
 title: "Morse code"
 date: "2017-05-07"
-categories: [Tech Talk]
+categories: [tech talk]
 image: "assets/images/phone-4598563_1920.png"
 comments: false
 featured: true

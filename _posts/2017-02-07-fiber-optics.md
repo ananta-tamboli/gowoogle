@@ -3,7 +3,7 @@ layout: post
 title:  "Fiber Optics"
 author: Ananta
 date: "2017-02-07"
-categories: [ Tech Talk, tutorial, web development ]
+categories: [ tech talk, tutorial, web development ]
 image: "assets/images/fiber-optics.jpg"
 comments: false
 ---

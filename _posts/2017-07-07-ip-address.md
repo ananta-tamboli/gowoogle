@@ -3,7 +3,7 @@ layout: post
 author: Ananta
 title: "IP address"
 date: "2017-07-07"
-categories: [Tech Talk]
+categories: [tech talk]
 image: "assets/images/darknet-3588402_1920.jpg"
 comments: false
 ---

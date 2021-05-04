@@ -3,7 +3,7 @@ layout: post
 author: Ananta
 title: "Must have Android Apps"
 date: "2017-06-07"
-categories: [Tech Talk]
+categories: [tech talk]
 tags: 
   - "android-android"
   - "apk"
