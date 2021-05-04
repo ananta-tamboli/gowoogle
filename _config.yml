@@ -21,7 +21,7 @@ authors:
     email: me@gowoogle.com
     web: https://www.gowoogle.com
     twitter: https://gowoogle.com
-    description: "Author of Go Woogle, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Almost a Computer Engineer, author of Go Woogle, I write about tech and tutorials."
   Shamika:
     name: Shamika
     display_name: Shamika    
@@ -29,7 +29,7 @@ authors:
     email: 
     web: https://gowoogle.com
     twitter: https://gowoogle.com
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Go Woogle demo, a Jekyll template compatible with Github pages."
+    description: "A Computer Engineer"
 
 # Plugins
 plugins:
