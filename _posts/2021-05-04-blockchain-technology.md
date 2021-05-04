@@ -6,6 +6,7 @@ date: "04-05-2021"
 categories: [ tech talk, blockchain technology ]
 image: "assets/images/blockchain.jpg"
 comments: false
+featured: true
 ---
 ## What is blockchain?
 
