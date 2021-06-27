@@ -8,10 +8,6 @@ image: "assets/images/image.jpg"
 comments: false
 ---
 
-
-
-
-
 When I was a kid, like any other kid of my age I used to throw tantrums at mom. Say mom do this, mom do that, mom I am hungry, my mom took care of everything that I wanted and needed, she also sang sweet  lullabies to calm me down when I was tensed or crying or not able to sleep. Everyone of us have those beautiful memories, because she’s always there
 to care for you as a mother, sister, your bestie, your life partner in our life.
 
