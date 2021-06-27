@@ -29,6 +29,14 @@ authors:
     email: 
     web: https://gowoogle.com
     twitter: https://gowoogle.com
+    description: "A Computer Engineer"  
+  Het Tamboli:
+    name: Het Tamboli
+    display_name: Het Tamboli
+    gravatar: #e56154546cf4be74e393c62d1ae9f9d4
+    email: 
+    web: https://gowoogle.com
+    twitter: https://gowoogle.com
     description: "A Computer Engineer"
 
 # Plugins
