@@ -4,7 +4,7 @@ title:  "Women's Safety"
 author: Het Tamboli
 date: "27-06-2021"
 categories: [ ladli foundation ]
-image: "assets/images/image.jpg"
+image: "assets/images/women_safety.jpg"
 comments: false
 ---
 
