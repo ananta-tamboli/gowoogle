@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Machine Learning Introduction"
+title:  "Supervised Learning"
 author: Ananta
 date: "02-05-2021"
 categories: [ tech talk, machine learning ]
-image: "assets/images/machinelearning.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Supervised_machine_learning_in_a_nutshell.svg"
 comments: false
 featured: true
 ---
