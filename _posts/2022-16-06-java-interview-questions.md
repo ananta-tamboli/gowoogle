@@ -2,7 +2,7 @@
 layout: post
 title: "Java Interview Questions"
 menutitle: "Java Interview Questions"
-date: 2022-16-06
+date: "2022-16-06"
 tags: Java Full Stack
 category: [java tuitorial, tutorial, java full stack]
 author: Ananta
