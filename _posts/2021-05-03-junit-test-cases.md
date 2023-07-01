@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "JUnit Test Cases"
 author: Ananta
@@ -256,4 +256,4 @@ Summary:
 * JUnit provides an annotation called @Test, which tells the JUnit that the public void method in which it is used can run as a test case.
 * A test fixture is a context where a test case runs
 * To execute multiple tests in a specified order, it can be done by combining all the tests in one place. This place is called as the test suites.
-* JUnit provides a tool for execution of the tests where we can run our test cases referred as Test Runner.
+* JUnit provides a tool for execution of the tests where we can run our test cases referred as Test Runner. -->
